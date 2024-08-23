@@ -1,6 +1,6 @@
 # SRGAN Implementation using Pytorch
 
-This repository contains an implementation of the **Image Super-Resolution Using Deep Convolutional Networks** paper by Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, et al. The implementation is done using PyTorch and includes a Jupyter notebook demonstrating the training and evaluation of the GAN model for image super-resolution.
+This repository contains an implementation of the **Image Super-Resolution Using Deep Convolutional Networks** paper by Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, et al. The implementation is done using PyTorch and includes a Jupyter notebook demonstrating the training and evaluation of the GAN model for image super-resolution. As a result, here's the average PSNR and SSIM score for my implementation ![Average PSNR and SSIM score](./psnr_ssim_result_avg.png)
 
 For more detail about how SRGAN works, you can check out my blog post series on dev.to [here](https://dev.to/adamazuddin/series/27510)
 
